@@ -1,0 +1,7 @@
+Introducción 
+Entender el Movimiento Lateral y Pivoting
+  -Definir y diferenciar entre el movimiento lateral y el Pivoting en el contexto de pruebas de penetración.
+  -Explicar la importacia e impacto de estas tecnicas en pentesting y operaciones red team.
+Movimiento Lateral
+  -Listar y describir las tecnicas comunes que se usan en Windows y Linux
+  -
